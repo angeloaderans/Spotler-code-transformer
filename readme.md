@@ -1,0 +1,1 @@
+This executable will transform a by Spotler generated form (list) to proper HTML.
